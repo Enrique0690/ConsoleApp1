@@ -16,7 +16,8 @@ namespace ConsoleApp1
             Console.WriteLine("La suma de 2+2 es 4");
             //Cambio 3//
             Console.WriteLine("La gente que lee bastante tiene un extenso repertorio de palabras");
-            
+            //Cambio 4//
+            Console.WriteLine("Adios mucho gusto");
         }
     }
 }
