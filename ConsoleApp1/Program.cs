@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             //Cambio 1//
             Console.WriteLine("Hola mundo este es el primer mensaje");
+            //Cambio 2//
+            Console.WriteLine("La suma de 2+2 es 4");
         }
     }
 }
